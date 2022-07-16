@@ -8,5 +8,5 @@ const sortArraysFalling = (arr) => {
 console.log(sortArraysFalling([4, 5, 3, 8, 9, 1, 7, 6, 2]));
 
 
-//comentario: uso de el metodo sort() para clasificar un array numerico de 
+//comentario 1: uso de el metodo sort() para clasificar un array numerico de 
 //forma decendente

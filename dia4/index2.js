@@ -7,6 +7,6 @@ const cutArrays = (a, n) => {
 
 console.log(cutArrays([1, 2, 3, 4, 5], 2));
 
-//comentario: uso de el metodo splice() para retornar un array con la 
+//comentario 2: uso de el metodo splice() para retornar un array con la 
 //cantidad de elementos especificada en el segundo parametro de la 
 //funcion empenzando por el final de el array
