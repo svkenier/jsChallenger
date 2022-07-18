@@ -8,7 +8,7 @@ const sumOfMajors = (a, b) => {
 
 console.log(sumOfMajors([1, 2, 3, 4, 5, 6, 7], 2));
 
-//comentario: tenia que sumar los numeros mayores a el valor de el
+//comentario 1: tenia que sumar los numeros mayores a el valor de el
 //segundo parametro de la funcion  use el metodo filter() para
 //descartar los no cumplian la condicion u el metodo reduce()
 //para sumar los elementos de el nuevo array
