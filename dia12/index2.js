@@ -9,7 +9,7 @@ const objectMaker = (a, b) => {
   };
   console.log(objectMaker("color", "rojo"));
   
-  //comentario 1: cree una una funcion cuyos 2 parametros fueran la clave y el 
+  //comentario 2: cree una una funcion cuyos 2 parametros fueran la clave y el 
   //valor de un objeto cree el ojeto vacio y le agrege la propiedad y el valor 
   //con la metodologia de los corchetes dado que la de el punto tiene retriciones
   //que no iniciar con un numero o con espacios y dado que usaremos parametros aun
