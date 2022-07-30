@@ -20,7 +20,7 @@ const counterElementArray = (a) => {
             counter = 1
         }
     }
-
+    
     const result = 
     Object.fromEntries(one.map((value, index) => [value, arrCounter[index]]))
 
