@@ -12,6 +12,7 @@ const swapPropertyObject =(obj)=>{
     return objResult
 }
 
+console.log(swapPropertyObject({a:1,b:2,c:3}))
 /* 
 
 comentario 2: cree un objeto vacio y recorri el objeto de dodo por el parametro
