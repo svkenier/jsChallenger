@@ -5,9 +5,9 @@
 
 const changeCharacters = (str)=>{
     const arr = str.split("")
-    const clear = arr.map((item)=>item.replace("a","."))
+    const clear = arr.map((item)=>item.replace("a","x"))
     const add = clear.map((item)=>item.replace("b","a"))
-    return add.map((item)=>item.replace(".","b")).join("")
+    return add.map((item)=>item.replace("x","b")).join("")
     }
     
     console.log(changeCharacters("aaaccbbb"))
