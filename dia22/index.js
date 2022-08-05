@@ -21,9 +21,9 @@ const orderedCount = (text) => {
   console.log(orderedCount("abracadabra"))
 
   /* 
-  comverti el string de el parametro de la funcion en un array con el
-  metodo split() luego elimine los elementos repetidos de ese array con 
-  un set(),cree una variable con un array vacio luego use un for() para 
+  comentario 1: comverti el string de el parametro de la funcion en un array
+  con el metodo split() luego elimine los elementos repetidos de ese array 
+  con un set(),cree una variable con un array vacio luego use un for() para 
   recorrerlo y en cada iteracion introduje cada elemento array de elemntos
   unicos por medio de la variable i de el for() de igul forma en cada 
   iterracion le aplique filter a los elemento de el array de letras para

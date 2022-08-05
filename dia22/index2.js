@@ -13,9 +13,9 @@ const changeCharacters = (str)=>{
     console.log(changeCharacters("aaaccbbb"))
 
     /* 
-    comverti el el string en un array de letras lugo use map() para recorrer el 
-    array y remplazar todos los elementos "a" por una "x" despues y se lo mismo 
-    con el array resultante para cambiar los elementos "b" por "a" y al final 
-    repeti el proceso para cambiar elentos "x" por "b" para luego aplicar un join()
-    con un string vacio para unir todo en un estring sin espacios
+   cmentario 2: comverti el el string en un array de letras lugo use map() para 
+   recorrer el array y remplazar todos los elementos "a" por una "x" despues y 
+   se lo mismo con el array resultante para cambiar los elementos "b" por "a" y
+   al final repeti el proceso para cambiar elentos "x" por "b" para luego aplicar
+   un join() con un string vacio para unir todo en un estring sin espacios
     */
