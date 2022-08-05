@@ -1,3 +1,9 @@
+//hacer una funcion que reciba un string como parametro y retonar un array
+//con sub-arrays donde el primer elemento sea cada caracter de el string y
+//y el segundo elemento se un numero igual a la cantida de veces que ese 
+//caracter se repite en el string  
+
+
 const orderedCount = (text) => {
     // Implement me!
     const splitStr = text.split('');
