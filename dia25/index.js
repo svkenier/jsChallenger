@@ -10,9 +10,9 @@ function getCount(str) {
 
   console.log(getCount("abracadabra"))
 
-  /* 
-  use una exprecion regular junto con replace() para cmbiar todas las vocales por 
-  asteriscos (*) lo volvi una matriz de caracteres usando un split("") para luego
-  filtrar en oto array los asteriscos (*) y asi retornar la logitud de esa matriz
-  con un length 
+  /*
+  comentarios 1: use una exprecion regular junto con replace() para cambiar 
+  todas las vocales por asteriscos (*) lo volvi una matriz de caracteres 
+  usando un split("") para luego filtrar en oto array los asteriscos (*) 
+  y asi retornar la logitud de esa matriz con un length 
   */

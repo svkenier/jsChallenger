@@ -14,11 +14,11 @@ const twoSort = (arr) => {
 console.log(twoSort(["casa", "perro", "avion"]))
 
 /* 
-ordene el array con un sort() converti el primer elemento en otro array con un 
-split() lo recorri con un map() y usando un operador ternario indique que si 
-index era distinto a el ultimo elemento de el array le concatene 3 asteriscos 
-(...) de lo contrario deje el item intacto y luego lo volvi un string sin espacios
-con join("") para al final ser retornado
+comentario 1:ordene el array con un sort() converti el primer elemento en otro
+array con un split() lo recorri con un map() y usando un operador ternario 
+indique que si index era distinto a el ultimo elemento de el array le concatene
+3 asteriscos (...) de lo contrario deje el item intacto y luego lo volvi un 
+string sin espacioscon join("") para al final ser retornado
 
 Nota solucion simple: arr.sort().join("***")  
 */
